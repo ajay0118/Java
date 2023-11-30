@@ -35,3 +35,31 @@ public class Comparision
 	}
 	
 }
+
+
+/*OUTPUT 1 :
+
+ 	Enter the first number: 10
+
+	Enter the Second number: 12
+
+	n1 is not equal to n2
+
+	n1 is lesser than  n2
+
+	n1 is less than or equal to  n2
+
+ OUTPUT 2 :
+
+ 	Enter the first number: 1000
+
+	Enter the Second number: 1000
+
+	n1 is equal to n2
+
+	n1 is less than or equal to  n2
+
+	n1 is greater than or equal to  n2
+
+
+*/
